@@ -11,11 +11,14 @@ This project uses data collected by [Dr Kristen Gorman](https://www.uaf.edu/cfos
 
 **Species studied:** Gentoo, Chinstrap, and Adelie penguins. 
 
-**Research location:** [TODO: Which three islands were the penguins observed on? Hint: check the `island` column in `data/penguins_raw.csv`]
+**Research location:** Which three islands were the penguins observed on? 
+Hint: check the `island` column in `data/penguins_raw.csv`
 
-**Sample size:** [TODO: How many penguins are in the raw dataset? Hint: look at how the analysis script checks this]
+**Sample size:** How many penguins are in the raw dataset? 
+Hint: look at how the analysis script checks this
 
-**Years of data collection:** [TODO: What years were data collected? Hint: check the `year` column in the CSV]
+**Years of data collection:** What years were data collected? 
+Hint: check the `year` column in the CSV
 
 ## Variables Measured
 
@@ -32,19 +35,19 @@ The dataset includes the following morphological measurements:
 
 The R script `run_analysis_SOLUTIONS.R` performs the following steps:
 
-1. **Data cleaning** -- [TODO: What does the cleaning step do to handle missing values? Hint: look at section 3 and 4 of the script]
-2. **Exploratory boxplots** -- [TODO: Which variable is plotted against species in the first boxplot? Hint: look at section 5]
-3. **Cluster analysis** -- [TODO: Which two measurements are used to show how species cluster? Hint: look at section 7]
-4. **Regression analysis** -- [TODO: What relationship does the regression plot examine? Hint: look at section 7]
+1. **Data cleaning** -- What does the cleaning step do to handle missing values? Hint: look at section 3 and 4 of the script
+2. **Exploratory boxplots** -- Which variable is plotted against species in the first boxplot? Hint: look at section 5
+3. **Cluster analysis** -- Which two measurements are used to show how species cluster? Hint: look at section 7
+4. **Regression analysis** -- What relationship does the regression plot examine? Hint: look at section 7
 
 ## Plots Produced
 
 The analysis generates a multi-panel figure combining four plots:
 
-- **Top left:** [TODO: What does this plot show?]
-- **Top right:** [TODO: What does this plot show?]
-- **Bottom left:** [TODO: What does this plot show?]
-- **Bottom right:** [TODO: What does this plot show?]
+- **Top left:** What does this plot show?
+- **Top right:** What does this plot show?
+- **Bottom left:** What does this plot show?
+- **Bottom right:** What does this plot show?
 
 ## Project Structure
 
